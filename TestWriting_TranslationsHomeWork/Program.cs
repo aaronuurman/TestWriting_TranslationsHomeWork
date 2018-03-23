@@ -6,7 +6,7 @@ namespace TestWriting_TranslationsHomeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Command line app not implemented.");
         }
     }
 }
